@@ -2,7 +2,8 @@
 Portfolio Submission: A document describing the software design for "The Gaming Room."
  
 Summary
- 
+
+ 
 The current repository contains the software design document I created for The Gaming Room, which was a crucial part of my Computer Science degree. The portfolio serves as a means to document my educational experiences and exhibit my most exceptional work to prospective employers. Incorporating this document showcases my proficiency in software program design and my ability to articulate those ideas with clarity to both clients and development team members.
 Artifact Submitted
  
@@ -16,6 +17,7 @@ Briefly summarize The Gaming Room client and their software requirements. Who wa
 The Gaming Room is a specialized firm that focuses on developing online multiplayer games. Their requirement was to develop a software architecture for a novel internet gaming platform that facilitates the operation of several game rooms, user administration, and instantaneous multiplayer engagement. The design must be capable of accommodating scalability, user authentication, and continuous game state management.
  
 What did you do particularly well in developing this documentation?
+
  
 During the development of this documentation, I demonstrated exceptional proficiency in precisely delineating the software architecture and systematically formulating the requirements. Through clear and concise communication of the design rationale and technical decisions, I successfully ensured that both technical and non-technical stakeholders could comprehend the proposed solution.
  
@@ -34,11 +36,13 @@ I clarified the user's requirements by conducting comprehensive requirement anal
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
  
 I adopted a software design methodology that involved first comprehending the problem domain, followed by decomposing the requirements into feasible components and establishing the system architecture. Furthermore, I intend to continue to use methodologies such as modular design, iterative refinement, and UML diagrams to analyze and design software systems. Implementing these techniques allows for the visualization of the system's many components and their interactions, promoting a more organized and effective development process.
- 
+
+ 
 Submission
  
 In order to finalize this submission, I have enclosed a hyperlink to my GitHub repository that houses the software design document and this README file. The repository serves as a component of my portfolio, showcasing my proficiency in software design and documentation. To access the repository, please click on the provided link.
- 
+
+ 
 Summary
  
 This portfolio entry demonstrates my proficiency in generating thorough software design specifications and emphasizes my grasp of software development concepts. By engaging in analysis and ongoing refinement, my objective is to augment my abilities and provide software solutions of exceptional quality.
